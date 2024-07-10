@@ -1,3 +1,5 @@
+# マスターからの変更点
+docs内の日本語名ファイルがremotes::install_githubでエラーを発生させているので一部削除
 
 # What’s this?
 
