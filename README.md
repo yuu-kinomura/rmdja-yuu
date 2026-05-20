@@ -1,6 +1,6 @@
 # マスターからの変更点
 docs内の日本語名ファイルがremotes::install_githubでエラーを発生させているので一部削除
-
+`remotes::install_github('yuu-kinomura/rmdja@development', upgrade = "never")`
 # What’s this?
 
 Customized R Markdown/Bookdown format functions for Japanese users
